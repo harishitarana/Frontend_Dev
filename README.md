@@ -1,3 +1,3 @@
-<h1>evelopment process</h1>
+<h1>Developing from Scratch</h1>
 <br>
-All I learn
+Basic practice projects to brush up skills.
